@@ -5,11 +5,11 @@ Comparison and Analysis of various DL models based is proposed to classify diffe
 <a href="https://www.youtube.com/watch?v=ctMn5J11ci8&ab_channel=snehitvaddi"><img src="https://github.com/snehitvaddi/BrainTumorClassification/blob/main/Application%20SS.jpg" width="600" height="350"></a>
 
 <b>📑 What do you get:</b><br>
-PYTHON code for CNN Training, & Testing<br>
-Web Application code(Flask, HTML, CSS, Js)<br>
-Project Report<br>
-PPT<br>
-Video Demo<br>
+- PYTHON code for CNN Training, & Testing<br>
+- Web Application code(Flask, HTML, CSS, Js)<br>
+- Project Report<br>
+- PPT<br>
+- Video Demo<br>
 
 <b>🤝 Contact to Buy:<br></b>
 Email: v.snehith999@gmail.com<br>
