@@ -1,0 +1,2 @@
+# BrainTumorClassification
+Comparison and Analysis of various DL models based is proposed to classify different brain tumor types using publicly available dataset. This classifies tumors  into (meningioma, glioma, and pituitary tumor). The proposed network structure achieves a significant performance with the best overall  accuracy of 90%. The results indicate the ability of the model for brain tumor multi-classification purposes.
