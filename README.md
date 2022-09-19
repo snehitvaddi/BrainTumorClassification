@@ -2,7 +2,7 @@
 Comparison and Analysis of various DL models based is proposed to classify different brain tumor types using publicly available dataset. This classifies tumors  into (meningioma, glioma, and pituitary tumor). The proposed network structure achieves a significant performance with the best overall  accuracy of 90%. The results indicate the ability of the model for brain tumor multi-classification purposes.<br>
 
 <b>✅ Demo:</b><br><br>
-<a href="https://www.youtube.com/watch?v=ctMn5J11ci8&ab_channel=snehitvaddi"><img src="https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/outputs/Capture.PNG" width="700" height="350"></a>
+<a href="https://www.youtube.com/watch?v=ctMn5J11ci8&ab_channel=snehitvaddi"><img src="https://github.com/snehitvaddi/BrainTumorClassification/blob/main/Application%20SS.jpg" width="600" height="350"></a>
 
 <b>📑 What do you get:</b><br>
 PYTHON code for CNN Training, & Testing<br>
